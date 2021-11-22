@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+   background: linear-gradient(#a7ed05 0%, #8e05f7 100%);
+}
+
+img {
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
